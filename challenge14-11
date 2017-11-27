@@ -1,0 +1,166 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="challenge14-11css.css">
+
+
+  </head>
+  <body>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>14/11</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+
+
+      </head>
+      <body>
+
+    <div class="container">
+        <div class="layout text-center">
+            <h1 class="header">CSS GRID LAYOUT</h1>
+            <p>With <span class="second">great</span> <span class="third">gradients</span></p>
+          </div>
+
+
+        <div class="row">
+        <div class="col-xs-6" style="width:633px;">
+          <div class="rotate">
+            <div class="num">
+          1
+        </div>
+        </div>
+        </div>
+
+        <div class="col-xs-5">
+          <div class="row top">
+            <div class="rotate">
+              <div class="num">
+            3
+          </div>
+        </div>
+          </div>
+          <div class= "row bottom">
+            <div class="rotate">
+              <div class="num">
+            4
+          </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-12" style="
+             width: 1145px;">
+            <div class="rotate">
+              <div class="num">
+            2
+          </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-xs-2">
+            <div class="rotate">
+              <div class="num">
+            5
+          </div>
+            </div>
+          </div>
+
+          <div class="col-xs-2">
+          <div class="rotate">
+            <div class="num">
+          6
+        </div>
+          </div>
+          </div>
+
+          <div class="col-xs-2">
+          <div class="rotate">
+            <div class="num">
+          7
+        </div>
+          </div>
+          </div>
+
+          <div class="col-xs-2">
+          <div class="rotate">
+            <div class="num">
+          8
+        </div>
+          </div>
+          </div>
+
+          <div class="col-xs-2">
+          <div class="rotate">
+            <div class="num">
+          9
+        </div>
+          </div>
+          </div>
+
+
+        </div>
+
+
+        <div class="row">
+          <div class="col-xs-2">
+          <div class="rotate">
+            <div class="num">
+          10
+        </div>
+          </div>
+          </div>
+
+          <div class="col-xs-2">
+          <div class="rotate">
+            <div class="num">
+          11
+        </div>
+          </div>
+          </div>
+
+          <div class="col-xs-2">
+          <div class="rotate">
+            <div class="num">
+          12
+        </div>
+          </div>
+          </div>
+
+          <div class="col-xs-2">
+          <div class="rotate">
+            <div class="num">
+          13
+        </div>
+          </div>
+          </div>
+
+          <div class="col-xs-2">
+          <div class="rotate">
+            <div class="num">
+          14
+        </div>
+          </div>
+          </div>
+
+
+        </div>
+
+        </div>
+        </div>
+
+
+          </body>
+        </html>

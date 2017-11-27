@@ -1,0 +1,97 @@
+.container{
+
+    background-color: #323943;
+
+}
+
+.header {color: white;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    letter-spacing: 8px;
+    margin-top:40px;
+
+
+}
+
+p {
+    font-size: 75px;
+    position: relative;
+    top: -90px;
+    font-family: 'Brush Script MT', cursive;
+    color: #ffe489;
+}
+
+.second {
+    color:#d85cf0;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.third {
+    color: #32b0f4;
+    font-family: 'Brush Script MT', cursive;
+}
+
+
+.rotate {
+    text-align: center;
+    transform: rotate(45deg);
+    background-color: #fff;
+    padding: 15px;
+    width: 50px;
+    margin: 0 auto;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.num{
+  transform:rotate(-45deg);
+}
+
+
+
+.col-xs-6 {
+    margin: 0px 24px 0 15px;
+    padding: 140px;
+    background: linear-gradient(to left, rgb(216, 92, 240), rgb(255, 173, 234));
+    padding-right: 15px;
+    height: 312px;
+
+
+}
+
+.col-xs-5{
+    width : auto
+    padding: 20px;
+}
+
+
+.top {
+
+    margin-bottom: 10px;
+    background: linear-gradient(to top right, rgb(50, 176, 244), rgba(150, 229, 220, 0.94));
+    padding: 50px;
+}
+
+.bottom {
+    margin-top: 5px;
+    background: linear-gradient(to top right, rgba(150, 229, 220, 0.94), rgb(50, 176, 244));
+    padding: 50px;
+
+}
+
+.col-xs-12{
+  background: linear-gradient(to right, rgb(216, 92, 240), rgb(255, 173, 234));
+      padding: 20px;
+      margin:20px 0px 10px 30px;
+        
+
+
+
+}
+.col-xs-2{
+  background: linear-gradient(to bottom left, rgb(230, 113, 199), rgb(247, 236, 151));
+    padding: 50px;
+    margin:10px 10px 10px 27px;
+}
